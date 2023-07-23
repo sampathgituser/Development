@@ -1,0 +1,27 @@
+create vmware workstation
+select new vmware custom vizard
+select virtual machine h/w compatability eithre default /custom
+select the os media(select later will install)
+select guest os and its distribution with version information
+name the virtual machine name and location
+allocate the processors
+allocate the memory
+choose the n/w configuration
+select the i/o controller type(LSI logc)
+select disk type(scsi/sata/ide)
+select the virtual disk
+select the disk capacity(single/multiple)
+specify the vdisk file
+click on create virtual machine
+virtual machine settings(supply rhel iso  image to vm) edit the cd/dvd 
+power on the virtual machine
+in welcome screen select the langauge and configure the required installation settings
+partition the disk (auto/custom)
+set root password
+begin installation
+it takes 15-60 mins
+reboot vm
+select the license information upon reboot and accept the license
+accept the license agreement
+create a user account
+click finish configuration
